@@ -1,0 +1,8 @@
+{
+  "name": "packet-size-monitor",
+  "version": "1.0.0",
+  "description": "Watches tcp dump for counting only... nothing more.",
+  "main": "app.js",
+  "author": "Emrah Gunduz",
+  "license": "ISC"
+}
